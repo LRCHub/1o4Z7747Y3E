@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "サクラウサギ",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2025-12-10T08:07:38.999155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サクラウサギ",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/01_サクラウサギ_川崎鷹也.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サクラウサギ",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_サクラウサギ_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "サクラウサギ【OFFICIAL MUSIC VIDEO】",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_02_サクラウサギ【OFFICIAL_MUSIC_VIDEO】_川崎_鷹也.txt"
+    }
+  ]
+}
